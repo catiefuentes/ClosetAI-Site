@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Closet AI - Smart Wardrobe Organizer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f9f6f2;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #6d4c41;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.5;
+        }
+        .btn {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background: #6d4c41;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        .btn:hover {
+            background: #5a3c34;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Closet AI</h1>
+        <p>Organize your wardrobe, get AI-powered outfit suggestions, and create mood boards effortlessly.</p>
+        <p>Integrate Pinterest for style inspiration and make fashion decisions with ease.</p>
+        <a href="https://catiefuentes.github.io/ClosetAI-Docs/privacy-policy" class="btn">Privacy Policy</a>
+    </div>
+</body>
+</html>
